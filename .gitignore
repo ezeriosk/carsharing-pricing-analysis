@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+
+# The original case-study dataset is intentionally excluded.
+Data/*.csv
+Data/*.xlsx
+Data/*.parquet
+!Data/README.md
