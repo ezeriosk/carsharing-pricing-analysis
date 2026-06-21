@@ -67,8 +67,8 @@ Python, pandas, NumPy, Matplotlib, Seaborn and Jupyter Notebook.
 ## Running the notebook
 
 ```bash
-git clone https://github.com/ezeriosk/Python_Analysis_Carsharing_App.git
-cd Python_Analysis_Carsharing_App
+git clone https://github.com/ezeriosk/carsharing-pricing-analysis.git
+cd carsharing-pricing-analysis
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
